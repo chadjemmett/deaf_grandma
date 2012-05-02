@@ -1,12 +1,4 @@
 #this works as of March 16, 2012
-#the following method was made for ease of reding in the terminal window.
-#deaf grandma 6
-#def spacing
- #puts ''
- #puts ''
- #puts ''
- #puts ''
-#end
 
 count = 0
 input = ''
