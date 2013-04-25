@@ -18,7 +18,7 @@ while  count != 3
           puts "I'D LIKE TO TALK A LITTLE MORE."
         
           # if input is BYE then it gets a count.
-          count = count +1
+          count += 1
         else  
          # if it's not bye then it gives the random response.
            puts input + " EH? NOT SINCE " + (1980 + rand(20)).to_s + "!"
